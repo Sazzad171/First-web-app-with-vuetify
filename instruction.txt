@@ -1,0 +1,11 @@
+start a new project ->
+
+vue create project-name
+npm install vuetify --save
+new-folder -> vuetify.js & paste
+import on main.js
+add link of material icon in index.html
+--> follow existing application on vuetifyjs.com
+
+
+titleMixins -> change title
